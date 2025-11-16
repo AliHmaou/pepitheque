@@ -1,0 +1,3 @@
+gradio
+gitpython
+openai
